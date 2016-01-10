@@ -1,3 +1,6 @@
+// https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+//implemented using the above link...
+
 class NumArray {
 public:
     NumArray(vector<int> &nums) {
